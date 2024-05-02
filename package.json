@@ -1,0 +1,27 @@
+{
+  "name": "cocossd_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NN198/img_recognition.git"
+  },
+  "author": "Noella Noronha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NN198/img_recognition/issues"
+  },
+  "homepage": "https://github.com/NN198/img_recognition#readme",
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.3",
+    "@tensorflow/tfjs": "^4.17.0",
+    "@tensorflow/tfjs-backend-cpu": "^4.17.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.17.0",
+    "@tensorflow/tfjs-converter": "^4.17.0",
+    "@tensorflow/tfjs-core": "^4.17.0"
+  }
+}
